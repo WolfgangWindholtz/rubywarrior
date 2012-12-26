@@ -1,5 +1,5 @@
-require 'level_004'
-LEVEL =  Level004
+require 'level_006'
+LEVEL =  Level006
 
 class Player
   
