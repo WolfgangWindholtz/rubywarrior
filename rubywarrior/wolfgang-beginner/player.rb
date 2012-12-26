@@ -1,9 +1,10 @@
-require 'level_001'
+require 'level_004'
+LEVEL =  Level004
 
 class Player
   
   def initialize 
-    @level = Level001.new
+    @level = LEVEL.new
 	end
   
   def play_turn(warrior)
